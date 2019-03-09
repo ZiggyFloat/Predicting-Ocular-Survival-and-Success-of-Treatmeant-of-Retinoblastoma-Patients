@@ -8,5 +8,5 @@ Machine learning algorithms including:
   - K-means clustering 
   - Hierachical clustering
   - Logistic regression
-  - Gradient boosting
+  - Gradient boost
   - Simple linear regression
